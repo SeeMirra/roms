@@ -1,2 +1,2 @@
 # roms
-Roms for various platforms
+Roms for various platforms.
